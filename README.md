@@ -9,7 +9,7 @@ Add the following script tag before the closing `</body>` tag:
 ```html
 <script
   src="https://widget.feedrahq.com/v1.js"
-  data-feedra-id="YOUR_PROJECT_ID"
+  data-team-id="YOUR_TEAM_ID"
   async
 ></script>
 ```
